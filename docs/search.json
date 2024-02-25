@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emma Teng",
+    "section": "",
+    "text": "&lt;head&gt;\n  &lt;meta charset=\"UTF-8\"&gt;\n  &lt;title&gt;Hello&lt;/title&gt;\n  &lt;link rel=\"stylesheet\" href=\"index-style.css\"&gt;\n&lt;link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css\"&gt;\n\n&lt;/head&gt;\n&lt;body&gt;\n&lt;!-- partial:index.partial.html --&gt;\n&lt;div class=\"background blue-purple\"&gt;&lt;/div&gt;\n&lt;div class=\"background green-blue\"&gt;&lt;/div&gt;\n&lt;div class=\"container\"&gt;\n  &lt;div class=\"sky\"&gt;\n    &lt;div class=\"text\"&gt;HI! THIS IS EMMA :D&lt;/div&gt;\n    &lt;div class=\"stars\"&gt;&lt;/div&gt;\n    &lt;div class=\"stars1\"&gt;&lt;/div&gt;\n    &lt;div class=\"stars2\"&gt;&lt;/div&gt;\n    &lt;div class=\"shooting-stars\"&gt;&lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;!-- partial --&gt;\n  \n&lt;/body&gt;"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "AdmitEasy"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, This is Emma.\n        I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto.\n        I hold great enthusiasm in topics related to my field and is especially interested in Data Analysis and Software Engineering. \n        Playing badminton and kayaking are my favourite activities for relaxation, and I have a solid plan to expand this list soon.\n        dwz92\n        Emma Teng\n        e.teng@nail.utoronto.ca"
+  },
+  {
+    "objectID": "about.html#i-study-both-computer-science-and-statistics-as-my-majors-and-i-am-currently-a-third-year-student-from-the-university-of-toronto.",
+    "href": "about.html#i-study-both-computer-science-and-statistics-as-my-majors-and-i-am-currently-a-third-year-student-from-the-university-of-toronto.",
+    "title": "About Me",
+    "section": "I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto.",
+    "text": "I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto."
+  }
+]

@@ -1,0 +1,33 @@
+---
+title: "Home"
+page-layout: custom
+---
+
+```{=HTML}
+<head>
+
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="page_styles/index-styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+</head>
+
+<body>
+<div class="background"></div>
+<div class="container">
+    <a class="text-light" href="about.qmd">
+        <div type="button" class="textbubble">
+            <figure class="text-center">
+                <h1 class="text-light"><br><br/><br><br/><br><br/>Hi, this is Emma</h1>
+            </figure>
+        </div>
+    </a>
+    <div class="sky">
+        <div class="stars"></div>
+        <div class="stars1"></div>
+        <div class="stars2"></div>
+    </div>
+</div>
+  
+</body>
+```

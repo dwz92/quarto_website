@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Emma Teng"
+  navbar:
+    left:
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      
+    right:
+      - href: about.qmd
+        text: About
+      - icon: github
+        href: https://github.com/dwz92
+      - icon: linkedin
+        href: https://www.linkedin.com/in/e-teng/
+      - icon: envelope
+        href: "mailto:e.teng@mail.utoronto.ca"
+      - text: CV
+        href: pdfs//Emma_s_Resume.pdf
+
+format:
+  html:
+    theme: page_styles\lux-custom.scss
+    css: page_styles\styles.css
+    toc: true
+
+
+
