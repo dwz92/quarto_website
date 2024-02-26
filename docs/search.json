@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Emma Teng",
+    "title": "Hi, this is Emma",
     "section": "",
-    "text": "&lt;head&gt;\n  &lt;meta charset=\"UTF-8\"&gt;\n  &lt;title&gt;Hello&lt;/title&gt;\n  &lt;link rel=\"stylesheet\" href=\"index-style.css\"&gt;\n&lt;link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css\"&gt;\n\n&lt;/head&gt;\n&lt;body&gt;\n&lt;!-- partial:index.partial.html --&gt;\n&lt;div class=\"background blue-purple\"&gt;&lt;/div&gt;\n&lt;div class=\"background green-blue\"&gt;&lt;/div&gt;\n&lt;div class=\"container\"&gt;\n  &lt;div class=\"sky\"&gt;\n    &lt;div class=\"text\"&gt;HI! THIS IS EMMA :D&lt;/div&gt;\n    &lt;div class=\"stars\"&gt;&lt;/div&gt;\n    &lt;div class=\"stars1\"&gt;&lt;/div&gt;\n    &lt;div class=\"stars2\"&gt;&lt;/div&gt;\n    &lt;div class=\"shooting-stars\"&gt;&lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;!-- partial --&gt;\n  \n&lt;/body&gt;"
+    "text": "Home \n\n  \n  \n  \n\n\n\n\n\n    \n        \n            \n                Hi, this is Emma"
   },
   {
     "objectID": "projects.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Hi, This is Emma.",
     "section": "",
-    "text": "Hi, This is Emma.\n        I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto.\n        I hold great enthusiasm in topics related to my field and is especially interested in Data Analysis and Software Engineering. \n        Playing badminton and kayaking are my favourite activities for relaxation, and I have a solid plan to expand this list soon.\n        dwz92\n        Emma Teng\n        e.teng@nail.utoronto.ca"
+    "text": "About Me \n  \n  \n  \n\n\n\n\nHi, This is Emma.\n\n\n    \n        I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto.\n        I hold great enthusiasm in topics related to my field and is especially interested in Data Analysis and Software Engineering. \n        Playing badminton and kayaking are my favourite activities for relaxation, and I have a solid plan to expand this list soon.\n        dwz92\n        Emma Teng\n        e.teng@nail.utoronto.ca"
   },
   {
     "objectID": "about.html#i-study-both-computer-science-and-statistics-as-my-majors-and-i-am-currently-a-third-year-student-from-the-university-of-toronto.",
@@ -26,5 +26,82 @@
     "title": "About Me",
     "section": "I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto.",
     "text": "I study both Computer Science and Statistics as my majors, and I am currently a third year student from the university of toronto."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "#test somting"
+  },
+  {
+    "objectID": "blog.html#did-it-realllyu",
+    "href": "blog.html#did-it-realllyu",
+    "title": "Blog",
+    "section": "did it realllyu",
+    "text": "did it realllyu\nlorsem some rand stuff stuff"
+  },
+  {
+    "objectID": "blog.html#did-it-realllyu-1",
+    "href": "blog.html#did-it-realllyu-1",
+    "title": "Blog",
+    "section": "did it realllyu",
+    "text": "did it realllyu\nlorsem some rand stuff stuff # I want more stuff\n\nlets see if it works"
+  },
+  {
+    "objectID": "blog.html#did-it-realllyu-2",
+    "href": "blog.html#did-it-realllyu-2",
+    "title": "Blog",
+    "section": "did it realllyu",
+    "text": "did it realllyu\nlorsem some rand stuff stuff # I want more stuff\n\nlets see if it works"
+  },
+  {
+    "objectID": "blog.html#did-it-realllyu-3",
+    "href": "blog.html#did-it-realllyu-3",
+    "title": "Blog",
+    "section": "did it realllyu",
+    "text": "did it realllyu\nlorsem some rand stuff stuff # I want more stuff\n\nlets see if it works"
+  },
+  {
+    "objectID": "blog.html#did-it-realllyu-4",
+    "href": "blog.html#did-it-realllyu-4",
+    "title": "Blog",
+    "section": "did it realllyu",
+    "text": "did it realllyu\nlorsem some rand stuff stuff"
+  },
+  {
+    "objectID": "projects.html#the-great-recession-and-impact-on-young-americans-birth-rates",
+    "href": "projects.html#the-great-recession-and-impact-on-young-americans-birth-rates",
+    "title": "Things I have done…",
+    "section": "The Great Recession and Impact on Young Americans Birth Rates",
+    "text": "The Great Recession and Impact on Young Americans Birth Rates"
+  },
+  {
+    "objectID": "projects.html#admiteasy",
+    "href": "projects.html#admiteasy",
+    "title": "Things I have done…",
+    "section": "AdmitEasy",
+    "text": "AdmitEasy"
+  },
+  {
+    "objectID": "projects.html#interactive-map-of-utsg",
+    "href": "projects.html#interactive-map-of-utsg",
+    "title": "Things I have done…",
+    "section": "Interactive Map of UTSG",
+    "text": "Interactive Map of UTSG"
+  },
+  {
+    "objectID": "projects.html#crime-in-toronto",
+    "href": "projects.html#crime-in-toronto",
+    "title": "Things I have done…",
+    "section": "Crime in Toronto",
+    "text": "Crime in Toronto"
+  },
+  {
+    "objectID": "projects.html#crimes-in-toronto",
+    "href": "projects.html#crimes-in-toronto",
+    "title": "Things I have done…",
+    "section": "Crimes in Toronto",
+    "text": "Crimes in Toronto"
   }
 ]

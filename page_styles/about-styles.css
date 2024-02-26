@@ -3,19 +3,6 @@
     border-radius: 50%;
 }
 
-
-/* bg colour */
-.background {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    background-color: #1D2B64;
-    background-image: -webkit-linear-gradient(left, #1D2B64, #ebb2c3);
-    background-image: linear-gradient(to right,#1D2B64, #ebb2c3);
-}
-
 /* bg motion */
 .container {
     display: block;

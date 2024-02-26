@@ -6,12 +6,11 @@ title: "Blog"
 <head>
 
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="page_styles/index-styles.css">
+  <link rel="stylesheet" href="page_styles/blog-styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 </head>
 
-<body>
-<div class="background"></div>
-</body>
 ```
+
+# Coming soon...
