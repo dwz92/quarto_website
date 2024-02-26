@@ -1,17 +1,21 @@
 ---
-title: "Projects"
+title: "Things I have done..."
 ---
 
 ```{=HTML}
 <head>
 
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="page_styles/index-styles.css">
+  <link rel="stylesheet" href="page_styles/projects-styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 </head>
-
-<body>
-<div class="background"></div>
-</body>
 ```
+
+## The Great Recession and Impact on Young Americans Birth Rates
+
+## Crime in Toronto
+
+## AdmitEasy
+
+## Interactive Map of UTSG

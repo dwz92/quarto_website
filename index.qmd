@@ -1,10 +1,11 @@
 ---
-title: "Home"
+title: ""
 page-layout: custom
 ---
 
 ```{=HTML}
 <head>
+  <title> Home </title>
 
   <meta charset="UTF-8">
   <link rel="stylesheet" href="page_styles/index-styles.css">
@@ -13,15 +14,16 @@ page-layout: custom
 </head>
 
 <body>
-<div class="background"></div>
 <div class="container">
-    <a class="text-light" href="about.qmd">
-        <div type="button" class="textbubble">
-            <figure class="text-center">
-                <h1 class="text-light"><br><br/><br><br/><br><br/>Hi, this is Emma</h1>
-            </figure>
-        </div>
-    </a>
+    <div class="textbubble">
+        <a class="text-light" href="about.qmd">
+            <div type="button" class="btn">
+                <figure class="text-center">
+                    <h1 class="text-light"><br><br/><br><br/><br><br/>Hi, this is Emma</h1>
+                </figure>
+            </div>
+        </a>
+    </div>
     <div class="sky">
         <div class="stars"></div>
         <div class="stars1"></div>
