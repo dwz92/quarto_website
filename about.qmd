@@ -23,7 +23,7 @@ title: ""
         <h4>Playing badminton and kayaking are my favourite activities for relaxation, and I have a solid plan to expand this list soon.</h4>
         <a class="nav-link" href="https://github.com/dwz92" rel="" target=""><i class="bi bi-github" role="img">dwz92</i></a>
         <a class="nav-link" href="https://www.linkedin.com/in/e-teng/" rel="" target=""><i class="bi bi-linkedin" role="img"></i>Emma Teng</a>
-        <a class="nav-link" href="mailto:e.teng@mail.utoronto.ca" rel="" target=""><i class="bi bi-envelope" role="img"></i>e.teng@nail.utoronto.ca</a>
+        <a class="nav-link" href="mailto:e.teng@mail.utoronto.ca" rel="" target=""><i class="bi bi-envelope" role="img"></i>e.teng@mail.utoronto.ca</a>
     </div>
 
 
